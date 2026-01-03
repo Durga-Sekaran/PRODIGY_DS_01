@@ -65,7 +65,7 @@ The project uses three datasets from the World Bank:
    accurate country-level comparison.
 
 # Key Insight
-##  The most populated country in 2023 is India with population 1,417,173,173
+  The most populated country in 2023 is India with population 1,417,173,173
 
 # Key Highlights
 
@@ -77,14 +77,6 @@ Clear and interpretable visualizations
 
 Clean, well-structured Python code
 
-# Project Structure
-Task_1/
-│── world population
-│   │── population.csv
-│   │── country metadata.csv
-│   │── indicator metadata.csv
-│── task1.py
-│── README.md
 
 # Conclusion
 
